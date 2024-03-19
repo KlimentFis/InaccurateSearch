@@ -1,0 +1,7 @@
+Package            Version
+------------------ -------
+fuzzywuzzy         0.18.0
+Levenshtein        0.25.0
+pip                23.2.1
+python-Levenshtein 0.25.0
+rapidfuzz          3.6.2
